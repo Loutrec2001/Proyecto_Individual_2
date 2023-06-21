@@ -9,7 +9,7 @@ Estas plataformas son:
 * Udemy
 * Coursera
 
-En primera instancia se realiza un EDA de cada una de las bases. Algunas de estas bases como EDX y Coursera no contienen fechas por lo que el análisis no se realiza teniendo en cuenta variaciones de tiempo.
+En primera instancia se realiza un EDA de cada una de las bases. Algunas de estas bases como EDX no contienen fechas por lo que el análisis no se realiza teniendo en cuenta variaciones de tiempo. Otras bases como Coursera no posee datos de precios o fechas de lanzamientos de los cursos por lo que el análisis se realiza en base a los datos con los que se cuentan.
 
 Para EDX se realizan análisis de frecuencias, de estadísticos descriptivos y de correlaciones entre variables. Del mismo modo, para Coursera se realizan análisis de frecuencias, en este caso de los reviews, de estadísticos descriptivos y de correlaciones entre variables. Para la base Udemy se tiene encuenta el tiempo por lo que se analizan, cantidades de cursos por año, cantidad de inscritos y es esta ultima base que se utiliza para la creación de los KPI.
 
